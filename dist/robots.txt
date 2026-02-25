@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://images.mtosity.com/sitemap.xml
+Sitemap: https://img-grid.mtosity.com/sitemap.xml
